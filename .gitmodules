@@ -4,3 +4,6 @@
 [submodule "edcc-backend"]
 	path = edcc-backend
 	url = https://github.com/JohannesThoren/edcc-backend
+[submodule "edcc-issues"]
+	path = edcc-issues
+	url = https://github.com/JohannesThoren/edcc-issues
