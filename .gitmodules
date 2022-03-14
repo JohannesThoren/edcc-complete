@@ -1,0 +1,7 @@
+[submodule "edcc-react"]
+	path = edcc-react
+	url = https://github.com/JohannesThoren/edcc-react
+
+[submodule "edcc-backend"]
+	path = edcc-backend
+	url = https://github.com/JohannesThoren/edcc-backend
